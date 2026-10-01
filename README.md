@@ -11,7 +11,13 @@ YayFood is an iOS app for tracking restaurant visits, dishes, and ratings with f
 - 👨‍👩‍👧‍👦 **Family Ratings** - Multiple family members can rate the same dishes
 - 📊 **Statistics** - View average ratings and dining analytics
 - 📱 **Offline-First** - All data stored locally with optional CloudKit sync
+- 🏠 **Household Sharing (optional)** - Share one food diary with family or roommates using Sign in with Apple
 - 🎨 **SwiftUI + Core Data** - Modern iOS architecture
+
+## Release Notes & Privacy
+
+- [Release notes](release-notes/) for every version
+- [Privacy Policy](Privacy%20Policy.md)
 
 ## Reporting Issues
 
